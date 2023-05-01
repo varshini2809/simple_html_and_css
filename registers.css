@@ -1,0 +1,44 @@
+.chumma {
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+
+
+
+.log {
+    margin-left: 27cm;
+    margin-top: 4cm;
+    color: rgb(212, 148, 10);
+}
+
+.user {
+    margin-left: 900px;
+    font-size: 150%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.pp {
+    margin-left: 900px;
+    font-size: 150%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ppp {
+    margin-left: 900px;
+    font-size: 150%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.button {
+    margin-left: 1000px;
+    background-color: rgb(241, 204, 100);
+    border: none;
+    color: black;
+    font-size: 24px;
+    height: 1cm;
+    width: 2cm;
+}
+

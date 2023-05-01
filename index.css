@@ -1,0 +1,47 @@
+.navbar
+{
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .navbar a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .navbar a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+  p {
+    text-align: center; 
+    color: #2E475D;
+    font-size: 80px;
+  }
+
+  h6 {
+    text-align: center; 
+    color: #2E475D;
+    font-size: 20px;
+  }
+
+  .text-center {
+    text-align: center;
+    
+  }
+
+  .logo {
+   margin-left: 32cm;
+   position: absolute;
+   top: -0.1cm;
+  }
